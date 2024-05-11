@@ -1,0 +1,12 @@
+.Header {
+    position: absolute;
+    left: 45%; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Header a {
+    margin-right: 15px; /* Добавляем отступ справа для текста "Название" */
+    margin-top: 15px;
+}
